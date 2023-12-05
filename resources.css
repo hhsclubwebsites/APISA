@@ -19,7 +19,7 @@
 
 .nav-bar{
     top: 0;
-    background: white;
+    background-color: rgba(255, 255, 255, 0.8);
     position: fixed;
     width: 100%;
     text-align: right;
