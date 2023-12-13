@@ -78,6 +78,7 @@
     box-shadow: 0 0.25rem rgb(162, 13, 113);
     min-height: 2rem;
     text-align: center;
+    padding: 0 .5rem;
 }
 
 .title-description{
